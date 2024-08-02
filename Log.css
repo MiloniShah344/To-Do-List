@@ -1,0 +1,27 @@
+body{
+    background-color: #FAF3F0 ;
+}
+h1{
+    color: purple;
+}
+#label{
+    color: darkblue;
+}
+#ldiv{
+    border: 5px solid purple;
+    border-radius: 25px;
+    color:navy;
+    background-color: white;
+    height: auto;
+    margin-top: 8%;
+}
+.row{
+    overflow: hidden;
+    scrollbar-width: none;
+}
+button{
+    color: black;
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 5px;
+}
